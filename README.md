@@ -14,7 +14,7 @@ A movie ticket booking app built by a team of 4 as our college project. We're tu
 HTML • CSS • JavaScript • GitHub........
 
 ### 👥 The Crew
-- Vivek Ingle · Team Lead
+- Vivek Ingle · Developer
 - Rugved kadam· Developer
 - Shraddha limbekar· Developer
 - Akshata biradar · Developer
